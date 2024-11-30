@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ciobanu Andrei Vladut , call me Vlad.</h1>
+<h1 align="center">Hi 👋, call me Vlad.</h1>
 <h3 align="center">Learning towards the goal of becoming a programmer and having a job one day.</h3>
 
-- 🔭 I’m currently working on **whatever i can and improving my knowledge.**
-
-- 🌱 I’m currently learning **Java , learning on Java and taking a course.**
-
-- 👯 I’m looking to collaborate on **anything if you think i can be of use.**
-
+- 🌱 I’m currently learning **Java.**
+- 👯 I like helping people.**
 - 🤝 I’m looking for help with **different opinions on what projects i should do to improve.**
-
 - 👨‍💻 All of my projects are available at [my repositories.]
-
 - 📫 How to reach me **vladut.ciobanu76@yahoo.com or through discord v_lad21.**
-
-- ⚡ Fun fact **I try my best despite the difficulty of tasks given. Even if I can't do the task I want everyone to know i tried lol.**
 
 
 <h3 align="left">Languages and Tools:</h3>
