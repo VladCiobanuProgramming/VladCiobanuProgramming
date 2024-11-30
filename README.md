@@ -2,8 +2,8 @@
 <h3 align="center">Learning towards the goal of becoming a programmer and having a job one day.</h3>
 
 - 🌱 I’m currently learning **Java.**
-- 👯 I like helping people.**
-- 🤝 I’m looking for help with **different opinions on what projects i should do to improve.**
+- 👯 I like helping people with projects. Reach out to me if you think I can be of use.
+- 🤝 I’m looking for help with **different opinions on what projects i should do to improve projects listed in my repositories.**
 - 👨‍💻 All of my projects are available at [my repositories.]
 - 📫 How to reach me **vladut.ciobanu76@yahoo.com or through discord v_lad21.**
 
