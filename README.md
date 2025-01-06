@@ -1,11 +1,10 @@
 <h1 align="center">Hello World , I'm Vlad.</h1>
 <h3 align="center">Learning towards the goal of becoming a programmer and having a job one day.</h3>
 
-- 🌱 I’m currently learning **Java and willing to learn as much as I need.**
-- 👯 I like helping people with projects. Reach out to me if you think I can be of use.
-- 🤝 I’m looking for help with **different opinions on my listed repositories.**
-- 👨‍💻 some of my projects are available at [my repositories.] (Not all of them)
-- 📫 How to reach me **vladut.ciobanu76@yahoo.com or through discord v_lad21.**
+- Reach out to me **if** you think I can be of use.
+- I’m **looking for** help with different opinions on my listed repositories.
+- Some of my projects are available at [my repositories.] **(Not all of them)**
+- How to reach me ? **vladut.ciobanu76@yahoo.com or through discord v_lad21.**
 
 
 <h3 align="left">Languages and Tools:</h3>
