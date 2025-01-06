@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Java and willing to learn as much as I need.**
 - 👯 I like helping people with projects. Reach out to me if you think I can be of use.
 - 🤝 I’m looking for help with **different opinions on my listed repositories.**
-- 👨‍💻 some of my projects are available at [my repositories.]
+- 👨‍💻 some of my projects are available at [my repositories.] (Not all of them)
 - 📫 How to reach me **vladut.ciobanu76@yahoo.com or through discord v_lad21.**
 
 
