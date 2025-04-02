@@ -2,7 +2,7 @@
 <h3 align="center">I wanna be a programmer to afford pokemon cards.</h3>
 
 - Check out Repos ;
-- Reach me thru Discord v_lad21 ;
+- Most active on Discord v_lad21 ;
 
 
 <h3 align="left">Languages and Tools:</h3>
