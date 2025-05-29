@@ -1,5 +1,5 @@
 <h1 align="center">Vlad</h1>
-<h3 align="center">I wanna be a programmer to afford pokemon cards.</h3>
+<h3 align="center">Just some dummy kid programming.</h3>
 
 - Check out Repos ;
 - Most active on Discord v_lad21 ;
